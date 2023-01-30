@@ -12,18 +12,6 @@ GOVAXON TECHNOLOGIES PROFILE PUSHES AND COLLABORATIONS
 
 <p align="left"> <a href="https://twitter.com/govaxon" target="blank"><img src="https://img.shields.io/twitter/follow/govaxon?logo=twitter&style=for-the-badge" alt="govaxon" /></a> </p>
 
-- 🔭 I’m currently working on **being a cerified Software Engineer**
-
-- 🌱 On a Misssion to Develop the Africa Youths **Explore your yourself while you get time**
-
-- 👯 Build Your Apps/Website with us **Available for projects Collaboration**
-
-- 💬 Feel free to ask about us **, Location: Africa, Nigeria**
-
-- 📫 You can reach me via **govaxontechs@gmail.com**
-
-- ⚡ Tag **#Doing Hard Things**
-
 <h3 align="left">Follow us on Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/govaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govaxon" height="30" width="40" /></a>
