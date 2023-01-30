@@ -6,11 +6,11 @@ GOVAXON TECHNOLOGIES PROFILE PUSHES AND COLLABORATIONS
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techbydami&label=Profile%20views&color=0e75b6&style=flat" alt="techbydami" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambeeman&label=Profile%20views&color=0e75b6&style=flat" alt="ambeeman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techbydami" alt="techbydami" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambeeman" alt="ambeeman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/techbydami" target="blank"><img src="https://img.shields.io/twitter/follow/govaxon?logo=twitter&style=for-the-badge" alt="govaxon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/govaxon" target="blank"><img src="https://img.shields.io/twitter/follow/govaxon?logo=twitter&style=for-the-badge" alt="govaxon" /></a> </p>
 
 - 🔭 I’m currently working on **being a cerified Software Engineer**
 
@@ -26,8 +26,8 @@ GOVAXON TECHNOLOGIES PROFILE PUSHES AND COLLABORATIONS
 
 <h3 align="left">Follow us on Social Media:</h3>
 <p align="left">
-<a href="https://twitter.com/techbydami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambeeman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agboola-olawale-damilola-7b2132246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahi-aminu-7b2132246" height="30" width="40" /></a>
+<a href="https://twitter.com/govaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govaxon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullahi-aminu-7b2132246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahi-aminu-7b2132246" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19747131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19747131" height="30" width="40" /></a>
 <a href="https://instagram.com/govaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techbydami" height="30" width="40" /></a>
 <a href="https://hashnode.com/@govaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@govaxon" height="30" width="40" /></a>
